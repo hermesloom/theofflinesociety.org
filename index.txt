@@ -4,7 +4,7 @@ Obsoletes: None
 Updates: None
 ISSN: N/A
 
-               Rules for “The Offline Society” (TOS)
+               Rules for "The Offline Society" (TOS)
 
 Status of This Memo
 
@@ -22,7 +22,7 @@ Copyright Notice
 Abstract
 
    This document describes the foundational principles governing
-   “The Offline Society,” a decentralized, non-registered, and
+   "The Offline Society," a decentralized, non-registered, and
    non-digital social formation. These rules define operational,
    social, and ethical constraints intended to preserve autonomy,
    self-reliance, and organic organization without reliance on
@@ -44,7 +44,7 @@ Table of Contents
 
 1. Introduction
 
-   “The Offline Society” exists as a response to pervasive digital
+   "The Offline Society" exists as a response to pervasive digital
    mediation. It does not begin at a specific point in time, nor does
    it require formal recognition. This document does not define an
    organization but rather a set of constraints under which social
@@ -52,7 +52,7 @@ Table of Contents
 
 2. Terminology
 
-   The key words “MUST”, “MUST NOT”, “SHOULD”, “SHOULD NOT”, and “MAY”
+   The key words "MUST", "MUST NOT", "SHOULD", "SHOULD NOT", and "MAY"
    in this document are to be interpreted in a practical, human sense
    rather than a legalistic one.
 
@@ -115,7 +115,7 @@ Table of Contents
 
 4. Operational Notes
 
-   “The Offline Society” has already begun.
+   "The Offline Society" has already begun.
 
    Participation does not require invitation. If no invitation has
    been received, participants SHOULD create a happening themselves.
@@ -134,7 +134,7 @@ Table of Contents
    This document acknowledges all past, present, and future
    participants who acted first and explained later.
 
-Author’s Address
+Author's Address
 
    The Offline Society
    (No fixed address)
