@@ -1,0 +1,14 @@
+{
+  "functions": {
+    "api/index.ts": {
+      "runtime": "bun@latest"
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/api/index"
+    }
+  ]
+}
+
