@@ -1,0 +1,141 @@
+Network Working Group                              The Offline Society
+Request for Comments: TOS-0001                 Category: Informational
+Obsoletes: None
+Updates: None
+ISSN: N/A
+
+               Rules for “The Offline Society” (TOS)
+
+Status of This Memo
+
+   This memo provides information for an undefined and deliberately
+   unregistered community. Distribution of this memo is unlimited,
+   provided such distribution occurs exclusively via physical means
+   or direct human voice.
+
+Copyright Notice
+
+   Copyright (c) The Offline Society.
+   This document may be copied, reproduced, read aloud, or rewritten
+   by hand without restriction.
+
+Abstract
+
+   This document describes the foundational principles governing
+   “The Offline Society,” a decentralized, non-registered, and
+   non-digital social formation. These rules define operational,
+   social, and ethical constraints intended to preserve autonomy,
+   self-reliance, and organic organization without reliance on
+   digital infrastructure.
+
+Table of Contents
+
+   1.  Introduction
+   2.  Terminology
+   3.  Core Principles
+       3.1.  Total Offline Operation
+       3.2.  Absence of Membership Registers
+       3.3.  Encouraged Fission and Independence
+       3.4.  Education over Authority
+       3.5.  Radical Self-Reliance
+   4.  Operational Notes
+   5.  Security Considerations
+   6.  Acknowledgements
+
+1. Introduction
+
+   “The Offline Society” exists as a response to pervasive digital
+   mediation. It does not begin at a specific point in time, nor does
+   it require formal recognition. This document does not define an
+   organization but rather a set of constraints under which social
+   activity may occur.
+
+2. Terminology
+
+   The key words “MUST”, “MUST NOT”, “SHOULD”, “SHOULD NOT”, and “MAY”
+   in this document are to be interpreted in a practical, human sense
+   rather than a legalistic one.
+
+   OFFLINE
+      The absence of digital devices, networks, platforms, or records.
+
+   MEMBER
+      Any person who participates in a happening aligned with these
+      rules, whether knowingly or unknowingly.
+
+   HAPPENING
+      Any gathering, event, action, or shared activity realized under
+      these constraints.
+
+3. Core Principles
+
+3.1. Total Offline Operation
+
+   All activities MUST remain offline.
+
+   Digital devices MUST NOT be used to publish, document, organize, or
+   communicate about happenings. Information dissemination MUST occur
+   solely via physical paper or spoken word, and only to other
+   participants.
+
+3.2. Absence of Membership Registers
+
+   No formal or informal register of members SHALL be maintained.
+
+   Social circles remain open and unconstrained by inclusion or
+   exclusion dynamics. Sign-ups SHOULD be avoided and MAY only occur
+   when material scarcity makes minimal coordination unavoidable.
+
+   Attendance is assumed to self-select: the right people will arrive.
+
+3.3. Encouraged Fission and Independence
+
+   Participants MAY split off at any time.
+
+   Independence is encouraged. There are no permanent leaders. Action
+   and realization define participation. Individuals MUST recognize
+   and act upon their own boundaries.
+
+3.4. Education over Authority
+
+   Informal hierarchies MAY arise naturally due to differences in
+   confidence, speed, or volume.
+
+   To prevent these from ossifying into inherited authority, those
+   with influence SHOULD actively teach others the skills and
+   knowledge they possess. Leadership is treated as a temporary,
+   transferable condition.
+
+3.5. Radical Self-Reliance
+
+   Each participant is responsible for their own well-being.
+
+   No implicit safety net is guaranteed by the society. Mutual aid
+   MAY occur, but responsibility cannot be delegated.
+
+4. Operational Notes
+
+   “The Offline Society” has already begun.
+
+   Participation does not require invitation. If no invitation has
+   been received, participants SHOULD create a happening themselves.
+   Independently emerging bubbles are expected to merge organically
+   over time without coordination.
+
+5. Security Considerations
+
+   The absence of digital records reduces certain surveillance risks
+   while increasing reliance on trust, memory, and physical presence.
+   Participants are advised to exercise situational awareness and
+   personal responsibility.
+
+6. Acknowledgements
+
+   This document acknowledges all past, present, and future
+   participants who acted first and explained later.
+
+Author’s Address
+
+   The Offline Society
+   (No fixed address)
+   (No digital contact)
